@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/buddha-nature-web/sw.js', { scope: '/buddha-nature-web/' })})}

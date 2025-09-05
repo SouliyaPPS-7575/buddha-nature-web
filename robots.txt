@@ -1,0 +1,6 @@
+# robots.txt for BuddhaWord
+# Allow all crawlers full access to routes and assets
+User-agent: *
+Allow: /
+
+Sitemap: https://buddhaword.net/sitemap.xml
